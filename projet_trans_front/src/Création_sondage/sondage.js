@@ -16,9 +16,10 @@ import {Enregistrer} from "./enregistrer";
 
 
 function Sondage(){
-   
+    
     return(
         <>
+        Tester si le workflow marche
         <div id='faki'>
             <div id='test'>
             <div className='remove'>
