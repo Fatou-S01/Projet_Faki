@@ -19,7 +19,7 @@ function Sondage(){
     
     return(
         <>
-        Testons si le worflow marche
+        Allons tester si le worflow marche correctement
         <div id='faki'>
             <div id='test'>
             <div className='remove'>
